@@ -9,7 +9,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     let searchBar = UISearchBar()
     let cityLabel = UILabel()
     let temperatureLabel = UILabel()
